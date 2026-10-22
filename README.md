@@ -6,7 +6,7 @@
 
 ![Status](https://img.shields.io/badge/status-projeto%20de%20portf%C3%B3lio-0e9875?style=flat-square) ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white&style=flat-square)
 
-**[▶️ Abrir dashboard localmente](index.html) · [📥 Consultar a base Excel](dados/Base_Orcado_Realizado.xlsx)**
+**[🌐 Dashboard online (após ativar GitHub Pages)](https://keltonalmeida.github.io/dashboard-controle-orcamentario-2026/) · [💻 Código do dashboard](index.html) · [📥 Planilha original](dados/Base_Orcado_Realizado.xlsx)**
 
 </div>
 
@@ -79,14 +79,14 @@ O dashboard é um arquivo estático independente: os dados utilizados na interfa
 1. Faça o download do repositório em **Code → Download ZIP** ou clone-o:
 
    ```bash
-   git clone https://github.com/SEU-USUARIO/dashboard-controle-orcamentario-2026.git
+   git clone https://github.com/KeltonAlmeida/dashboard-controle-orcamentario-2026.git
    ```
 
 2. Abra o arquivo `index.html` em um navegador atualizado.
 3. Use os filtros para analisar períodos, centros de custo e categorias.
 4. Clique em **Exportar CSV** para obter os registros filtrados.
 
-**Para publicar na web:** ative o GitHub Pages usando a raiz da branch `main` em **Settings → Pages → Deploy from a branch**. Como a entrada é `index.html`, não é necessário build.
+**Para publicar na web:** acesse [Settings → Pages](https://github.com/KeltonAlmeida/dashboard-controle-orcamentario-2026/settings/pages), em **Build and deployment** selecione **Deploy from a branch**, escolha **main** e **/(root)** e salve. Não há necessidade de build. Após a publicação, o endereço esperado é `https://keltonalmeida.github.io/dashboard-controle-orcamentario-2026/`. **O link só ficará acessível quando o GitHub Pages estiver ativo.**
 
 ## 📁 Estrutura do repositório
 
